@@ -1,1 +1,0 @@
-# stiff-upper-neuron
